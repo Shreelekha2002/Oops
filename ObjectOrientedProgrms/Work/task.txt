@@ -1,0 +1,3 @@
+//variable and types, static, 
+write a 5 programs  Bus, laptop, bag, bottle,flower.
+declare 10 static variables display default value and initialize the static variables and display.

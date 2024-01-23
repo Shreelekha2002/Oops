@@ -1,0 +1,13 @@
+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
+
+https://github.com/Shreelekha2002/Java.git
+
+git clone https://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@github.com/Shreelekha2002/Java.git
+git bash from files
+git status
+git add filename
+git status
+
+git commit -m "commit message"
+git push origin main
+november: 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
